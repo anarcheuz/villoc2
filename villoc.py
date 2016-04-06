@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# @wapiflapi
+# @anarcheuz (Fritz)
+# fork from https://github.com/wapiflapi/villoc
 
 import re
 import html
