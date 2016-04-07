@@ -75,7 +75,7 @@ class Empty(Printable):
 
 class Block(Printable):
 
-    header = 8
+    header = 0
     footer = 0
     round = 0x10
     minsz = 0x20
